@@ -121,6 +121,7 @@ footer {
 .banner-div {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 #banner-long {
   max-width: 100%;
